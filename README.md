@@ -38,11 +38,3 @@ Targeted Marketing: Focus digital acquisition spend on the highly profitable 40-
 Incentivize Upgrades: Launch targeted loyalty promotions or waive first-year fees to convert high-spending Blue/Silver cardholders into premium Gold/Platinum tiers.
 
 Geographic Focus: Double down on retention campaigns in TX, NY, and CA, while investigating ways to boost penetration in underperforming states like FL and NJ.
-
-📊 Dashboards
-
-(Insert screenshots of your Power BI Dashboards here)
-
-Credit Card Transaction Report: Focuses on operational performance, revenue by expenditure type, and card category metrics.
-
-Credit Card Customer Report: Focuses on demographic analysis, revenue by age/income, and customer satisfaction scores.
